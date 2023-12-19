@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "418893390894",
+    "project_id": "nvision-c00ea",
+    "storage_bucket": "nvision-c00ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418893390894:android:2502754708f1a6304c6bbf",
+        "android_client_info": {
+          "package_name": "com.example.n_vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418893390894-m2oenha5tatnrmmuinftb3kfh29jp659.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbPMW_uQlD-5inkWVcMAqXet1viKRnWAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418893390894-m2oenha5tatnrmmuinftb3kfh29jp659.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418893390894-85a520ol36784v9euf485ndru3acj92q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nVision.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
